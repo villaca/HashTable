@@ -3,6 +3,13 @@
 
 #include "lista.h"
 
+/*
+ *Grupo 4
+ * Daniel Villaça
+ * Thiago Albuquerque
+ * Gabriel Teixeira
+ */
+
 class TabelaHash
 {
 private:

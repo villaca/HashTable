@@ -1,5 +1,13 @@
 #include "lista.h"
 
+/*
+ *Grupo 4
+ * Daniel Villaça
+ * Thiago Albuquerque
+ * Gabriel Teixeira
+ */
+
+
 /* Testa se lista está vazia */
 bool lista::vazia(){
   return (prim==NULL);

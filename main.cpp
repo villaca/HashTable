@@ -4,8 +4,15 @@
 #include <time.h>
 #include "TabelaHash.h"
 
-
 using namespace std;
+
+/*
+ *Grupo 4
+ * Daniel Villaça
+ * Thiago Albuquerque
+ * Gabriel Teixeira
+ */
+
 
 int main(int argc, char** argv) {
 

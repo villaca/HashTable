@@ -1,5 +1,13 @@
 #include "TabelaHash.h"
 
+/*
+ *Grupo 4
+ * Daniel Villaça
+ * Thiago Albuquerque
+ * Gabriel Teixeira
+ */
+
+
 TabelaHash::TabelaHash( int tamanhoTabela ){
     if (tamanhoTabela <= 0){
       tamanhoTabela = 13;

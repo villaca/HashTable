@@ -5,6 +5,14 @@
 #include <iostream>
 using namespace std;
 
+/*
+ *Grupo 4
+ * Daniel Villaça
+ * Thiago Albuquerque
+ * Gabriel Teixeira
+ */
+
+
 class lista{
 
 protected:
