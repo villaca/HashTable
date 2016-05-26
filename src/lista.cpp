@@ -56,7 +56,7 @@ lista::~lista(){
   {
     p=prim->prox;
     delete prim;
-prim=p;
+    prim=p;
   }
 }
 
